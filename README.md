@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Course](https://img.shields.io/badge/MOOC.fi-Python%20Programming-lightgrey)
-![Points](https://img.shields.io/badge/Points-1%2F1-success)
 
 A Python function that validates 3×3 blocks in a Sudoku grid, ensuring each number 1-9 appears at most once per block. This solution demonstrates 2D array block traversal, debugging techniques, and code refactoring for improved maintainability.
 
